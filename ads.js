@@ -1,5 +1,5 @@
 (function() {
-  var smartlink  = 'https://www.profitablecpmratenetwork.com/h22uf2jv?key=91d207d7f52e6a972aaf17968c352380';
+  var smartlink  = 'https://www.profitablecpmratenetwork.com/w1c3wnsqfa?key=525638d321bbdc8e5810becd2bb14e72';
   var MAX_DAILY  = 3;   // max fires per day
   var DELAY_MS   = 150; // ms before page navigates
 
